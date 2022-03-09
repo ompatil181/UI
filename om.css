@@ -1,0 +1,27 @@
+#asideleft{
+    float: left;
+}
+
+#main{
+float: left;
+margin-left: 10px;
+}
+#colorback{
+    background-color: lightseagreen;
+    color: aliceblue;
+}
+#asideright{
+    float: left;
+    width: 100px;
+    height: 2px;
+    margin-left: 10px;
+}
+#footer{
+    clear: both;
+    background-color: lightseagreen;
+    color: aliceblue;
+    width: 100%;
+    height: 50px;
+}
+
+
